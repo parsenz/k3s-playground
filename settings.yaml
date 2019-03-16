@@ -1,0 +1,3 @@
+---
+enable_gui: true
+private_network: 172.28.128.105 # Put something reasonable here
